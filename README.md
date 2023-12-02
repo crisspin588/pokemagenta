@@ -3,9 +3,9 @@
 
 Our friend group created this fork with the intent to work on a personal pokemon project we are interested in. We will most likely not be making contributions to the upstream repository, but we hope to make a fun game based on it.
 
-Versions
-pokeemerald-expansion 1.6.2
-Porymap 5.1.1
+Versions: 
+pokeemerald-expansion 1.6.2; 
+Porymap 5.1.1;
 
 
 
