@@ -1,5 +1,5 @@
 # pokemon-magenta
-##This is a fork of pokeemerald-exapnsion
+## This is a fork of pokeemerald-exapnsion
 
 We created this fork to work on a personal project our friend group is interested in.
 
