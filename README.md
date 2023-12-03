@@ -1,4 +1,4 @@
-# pokemon-magenta
+# pokemagenta
 ## This is a fork of pokeemerald-expansion
 
 Our friend group created this fork with the intent to work on a personal pokemon project we are interested in. We will most likely not be making contributions to the upstream repository, but we hope to make a fun game based on it.
