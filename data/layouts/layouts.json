@@ -94,8 +94,8 @@
     {
       "id": "LAYOUT_LITTLEROOT_TOWN",
       "name": "LittlerootTown_Layout",
-      "width": 20,
-      "height": 20,
+      "width": 40,
+      "height": 25,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/LittlerootTown/border.bin",
@@ -1344,7 +1344,7 @@
     {
       "id": "LAYOUT_PETALBURG_WOODS",
       "name": "PetalburgWoods_Layout",
-      "width": 48,
+      "width": 50,
       "height": 44,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_Rustboro",
@@ -4410,6 +4410,66 @@
       "secondary_tileset": "gTileset_MysteryEventsHouse",
       "border_filepath": "data/layouts/SootopolisCity_MysteryEventsHouse_1F_StairsUnblocked/border.bin",
       "blockdata_filepath": "data/layouts/SootopolisCity_MysteryEventsHouse_1F_StairsUnblocked/map.bin"
+    },
+    {
+      "id": "LAYOUT_LITTLEROOTNEWHOUSE",
+      "name": "Littlerootnewhouse_Layout",
+      "width": 11,
+      "height": 9,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_BrendansMaysHouse",
+      "border_filepath": "data/layouts/Littlerootnewhouse/border.bin",
+      "blockdata_filepath": "data/layouts/Littlerootnewhouse/map.bin"
+    },
+    {
+      "id": "LAYOUT_LITTLEROOTNEWHOUSE2",
+      "name": "littlerootnewhouse2_Layout",
+      "width": 9,
+      "height": 8,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_BrendansMaysHouse",
+      "border_filepath": "data/layouts/littlerootnewhouse2/border.bin",
+      "blockdata_filepath": "data/layouts/littlerootnewhouse2/map.bin"
+    },
+    {
+      "id": "LAYOUT_PETALBURG_WOODS_SECRET",
+      "name": "PetalburgWoods_secret_Layout",
+      "width": 25,
+      "height": 17,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Rustboro",
+      "border_filepath": "data/layouts/PetalburgWoods_secret/border.bin",
+      "blockdata_filepath": "data/layouts/PetalburgWoods_secret/map.bin"
+    },
+    {
+      "id": "LAYOUT_GRANITE_CAVE_DARK_ROOM",
+      "name": "GraniteCave_Dark_room_Layout",
+      "width": 30,
+      "height": 30,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Cave",
+      "border_filepath": "data/layouts/GraniteCave_Dark_room/border.bin",
+      "blockdata_filepath": "data/layouts/GraniteCave_Dark_room/map.bin"
+    },
+    {
+      "id": "LAYOUT_GRANITE_CAVE_SECRET",
+      "name": "GraniteCave_Secret_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Cave",
+      "border_filepath": "data/layouts/GraniteCave_Secret/border.bin",
+      "blockdata_filepath": "data/layouts/GraniteCave_Secret/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE103_SECRET",
+      "name": "Route103_Secret_Layout",
+      "width": 22,
+      "height": 28,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Mossdeep",
+      "border_filepath": "data/layouts/Route103_Secret/border.bin",
+      "blockdata_filepath": "data/layouts/Route103_Secret/map.bin"
     }
   ]
 }
